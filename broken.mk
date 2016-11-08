@@ -16,4 +16,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # Broken Device Maintainers
     PRODUCT_BUILD_PROP_OVERRIDES += \
-  	DEVICE_MAINTAINERS="Dustin Winings (D-FUSE)"
+  	DEVICE_MAINTAINERS="Joe (roguesyko) Repasy"
